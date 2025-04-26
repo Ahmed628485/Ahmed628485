@@ -2,6 +2,7 @@
 <head>
   <h1>I want to learn more</h1>
   <p>I want to learn more about python , javascript , Programming.</p>
+  
 <style>
   body {
   background-color: Brown;
@@ -17,6 +18,7 @@ p {
   font-size: 20px;
 }
 </style>
+
 <title>Page Title</title>
 </head>
 <body>
