@@ -1,7 +1,7 @@
 <html>
 <head>
   <h1>I want to learn more</h1>
-  <p>I want to learn more about python , javascript , Programming
+  <p>I want to learn more about python , javascript , Programming.</p>
 <style>
   body {
   background-color: Brown;
@@ -23,4 +23,4 @@ p {
 <h1>I enjoyed the most <//h1>
 <p>I learned HTML, CSS Style , Software , Hardware. I learned Pixels , working on Blockly and thunkable.</p>
   <h1>I thought was difficult</h1>
-  <p>I thought Blockly and thunkable and HTML. So, Iworked hard. Then I understand it.
+  <p>I thought Blockly and thunkable and HTML. So, Iworked hard. Then I understand it.</p>
