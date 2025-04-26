@@ -21,6 +21,6 @@ p {
 </head>
 <body>
 <h1>I enjoyed the most <//h1>
-<p>I learned HTML, CSS Style , Software , Hardware. I learned Pixels , working on Blockly and thunkable.
+<p>I learned HTML, CSS Style , Software , Hardware. I learned Pixels , working on Blockly and thunkable.</p>
   <h1>I thought was difficult</h1>
   <p>I thought Blockly and thunkable and HTML. So, Iworked hard. Then I understand it.
