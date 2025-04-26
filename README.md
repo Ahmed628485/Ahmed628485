@@ -1,7 +1,14 @@
 <html>
 <head>
+  <title>Page Title</title>
   <h1>I want to learn more</h1>
   <p>I want to learn more about python , javascript , Programming.</p>
+</head>
+<body>
+<h1>I enjoyed the most <//h1>
+<p>I learned HTML, CSS Style , Software , Hardware. I learned Pixels , working on Blockly and thunkable.</p>
+  <h1>I thought was difficult</h1>
+  <p>I thought Blockly and thunkable and HTML. So, Iworked hard. Then I understand.</p>
   
 <style>
   body {
@@ -19,11 +26,6 @@ p {
 }
 </style>
 
-<title>Page Title</title>
 </head>
 <body>
-  
-<h1>I enjoyed the most <//h1>
-<p>I learned HTML, CSS Style , Software , Hardware. I learned Pixels , working on Blockly and thunkable.</p>
-  <h1>I thought was difficult</h1>
-  <p>I thought Blockly and thunkable and HTML. So, Iworked hard. Then I understand it.</p>
+</html>
